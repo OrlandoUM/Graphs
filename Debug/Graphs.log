@@ -1,0 +1,17 @@
+﻿  Graphs.cpp
+C:\Users\orlan\source\repos\Graphs\Graphs.cpp(44,64): error C2664:  'void ler_grafo(char [])': não é possível converter um argumento 1 de 'const char [51]' em 'char []'
+C:\Users\orlan\source\repos\Graphs\Graphs.cpp(44,12): message :  A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\orlan\source\repos\Graphs\Graphs.cpp(62,1): error C4996:  'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message :  consulte a declaração de 'getch'
+C:\Users\orlan\source\repos\Graphs\Graphs.cpp(114,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  consulte a declaração de 'scanf'
+C:\Users\orlan\source\repos\Graphs\Graphs.cpp(120,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  consulte a declaração de 'scanf'
+C:\Users\orlan\source\repos\Graphs\Graphs.cpp(294,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  consulte a declaração de 'fopen'
+C:\Users\orlan\source\repos\Graphs\Graphs.cpp(302,1): error C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message :  consulte a declaração de 'fscanf'
+C:\Users\orlan\source\repos\Graphs\Graphs.cpp(306,1): error C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message :  consulte a declaração de 'fscanf'
+C:\Users\orlan\source\repos\Graphs\Graphs.cpp(310,1): error C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message :  consulte a declaração de 'fscanf'
